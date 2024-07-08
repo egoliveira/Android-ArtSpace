@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+
+    <!-- ArtNavigation.kt -->
+    <string name="art_navigation_previous_button">Previous</string>
+    <string name="art_navigation_next_button">Next</string>
+</resources>
